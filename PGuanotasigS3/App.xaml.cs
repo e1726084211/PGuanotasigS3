@@ -9,7 +9,7 @@ namespace PGuanotasigS3
         public App()
         {
             InitializeComponent();
-
+            //Navegacion
             MainPage = new NavigationPage(new Page1());
         }
 
