@@ -8,7 +8,8 @@
             <Entry x:Name="txtDatoUno" Placeholder="Ingrese una cadena"/>
             <Entry x:Name="txtDatoDos" Placeholder="Ingrese un numero" Keyboard="Numeric"/>
             <Button x:Name="btnAbrir" Text="Abrir" Clicked="btnAbrir_Clicked"/>
-            
+            <Label Text="Prueba de git compartido"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
